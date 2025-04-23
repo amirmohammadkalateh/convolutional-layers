@@ -65,4 +65,4 @@ Here's how you might typically mention convolutional layers in a README:
 * **Pre-trained weights (if applicable):** Indicate if pre-trained weights are used and where they come from.
 * **Training details (optional but helpful):** Briefly mention the dataset used for training and any important training parameters.
 
-**In essence, your README should provide enough context for someone to understand the project's core functionality and how to use it. While mentioning convolutional layers is important for projects that utilize them, the level of detail should be appropriate for the target audience of your README.**
+
